@@ -1,0 +1,36 @@
+*{
+    margin-top:20px;
+    padding: 10px;
+}
+body{
+    background-color: rebeccapurple;
+}
+h2{
+    color: black;
+}
+ul li{
+    list-style-type:none;
+    display: inline;
+    font-size: large;
+}
+ul li a{
+    text-decoration: none;
+}
+ul li a:hover{
+    color: deeppink;
+}
+header{
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+button{
+    background-color: tomato;
+    border:1px solid gray;
+    border-radius: 10px;
+    color: white;
+    margin: 0;
+    
+}
